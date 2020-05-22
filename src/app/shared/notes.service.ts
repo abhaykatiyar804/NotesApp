@@ -1,6 +1,5 @@
 import { Injectable } from '@angular/core';
 import { Note } from './note.module';
-import { not } from '@angular/compiler/src/output/output_ast';
 
 @Injectable({
   providedIn: 'root'
